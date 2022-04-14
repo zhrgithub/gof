@@ -5,6 +5,8 @@ import gof_21_mediator.MediatorExtends.dependence.Sale;
 import gof_21_mediator.MediatorExtends.dependence.Stock;
 
 /**
+ * 对中介者的抽象，通过子类实现多个中介者，真正的业务处理在子类中
+ *
  * @author zhr_java@163.com
  * @date 2022/4/13 09:50
  */
